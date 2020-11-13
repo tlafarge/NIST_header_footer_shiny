@@ -29,7 +29,7 @@ shinyUI(fluidPage(id = "fullpage",theme = "style.css",
 
 
 
-  fluidRow(
+  fluidRow(id = "content",
 
 ### ***usually the ui.R code for your app would go here ***
   ),
